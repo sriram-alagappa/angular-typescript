@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5"
+    },
+    "files": [
+        "./client/app.module.ts",
+        "./client/app.route.ts",
+        "./client/routes/home/HomeController.ts"
+        
+    ]
+}
