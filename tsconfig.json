@@ -1,7 +1,8 @@
 {
     "compilerOptions": {
         "module": "commonjs",
-        "target": "es5"
+        "target": "es5",
+         "outFile": "out.js"
     },
     "files": [
         "./client/app.module.ts",
@@ -9,4 +10,5 @@
         "./client/routes/home/HomeController.ts"
         
     ]
+ 
 }
